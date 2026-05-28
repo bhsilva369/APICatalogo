@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BrunoHenrique\\Projetos\\Particular\\Catalogo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84F1BE4B-5763-4C7C-BEAD-72B13E3037E6}|APICatalogo.csproj|c:\\users\\brunohenrique\\projetos\\particular\\catalogo\\logging\\customerlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F1BE4B-5763-4C7C-BEAD-72B13E3037E6}|APICatalogo.csproj|solutionrelative:logging\\customerlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F1BE4B-5763-4C7C-BEAD-72B13E3037E6}|APICatalogo.csproj|c:\\users\\brunohenrique\\projetos\\particular\\catalogo\\apicatalogo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84F1BE4B-5763-4C7C-BEAD-72B13E3037E6}|APICatalogo.csproj|solutionrelative:apicatalogo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F1BE4B-5763-4C7C-BEAD-72B13E3037E6}|APICatalogo.csproj|c:\\users\\brunohenrique\\projetos\\particular\\catalogo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84F1BE4B-5763-4C7C-BEAD-72B13E3037E6}|APICatalogo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F1BE4B-5763-4C7C-BEAD-72B13E3037E6}|APICatalogo.csproj|c:\\users\\brunohenrique\\projetos\\particular\\catalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F1BE4B-5763-4C7C-BEAD-72B13E3037E6}|APICatalogo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerLogger.cs",
+              "DocumentMoniker": "C:\\Users\\BrunoHenrique\\Projetos\\Particular\\Catalogo\\Logging\\CustomerLogger.cs",
+              "RelativeDocumentMoniker": "Logging\\CustomerLogger.cs",
+              "ToolTip": "C:\\Users\\BrunoHenrique\\Projetos\\Particular\\Catalogo\\Logging\\CustomerLogger.cs",
+              "RelativeToolTip": "Logging\\CustomerLogger.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:30:00.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "APICatalogo",
+              "DocumentMoniker": "C:\\Users\\BrunoHenrique\\Projetos\\Particular\\Catalogo\\APICatalogo.csproj",
+              "RelativeDocumentMoniker": "APICatalogo.csproj",
+              "ToolTip": "C:\\Users\\BrunoHenrique\\Projetos\\Particular\\Catalogo\\APICatalogo.csproj",
+              "RelativeToolTip": "APICatalogo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-28T13:30:52.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BrunoHenrique\\Projetos\\Particular\\Catalogo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\BrunoHenrique\\Projetos\\Particular\\Catalogo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-28T13:30:34.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BrunoHenrique\\Projetos\\Particular\\Catalogo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\BrunoHenrique\\Projetos\\Particular\\Catalogo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:30:30.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1536,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
