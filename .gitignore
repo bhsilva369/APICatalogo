@@ -1,0 +1,9 @@
+## Pastas de build
+bin/
+obj/
+
+## Arquivos de configuração local
+.vs/
+*.csproj.user
+appsettings.Development.json
+log.txt
